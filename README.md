@@ -41,7 +41,10 @@ The project analyzes a Kaggle dataset published by [Daniel Grijalva](https://www
 ---
 
 ## 🌐 Explore the Interactive Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/laith.ahmed/viz/WhatdrivesAMoviesSuccessTheDashboard/Dashboard1)
+Dive into the full interactive dashboard on Tableau Public below ⬇️  
+
+🎥 [**View the Live Dashboard Here →**](https://public.tableau.com/app/profile/laith.ahmed/viz/WhatdrivesAMoviesSuccessTheDashboard/Dashboard1)
+
 
 ---
 
